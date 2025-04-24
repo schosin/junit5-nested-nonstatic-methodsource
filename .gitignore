@@ -1,0 +1,23 @@
+# Maven
+target/
+.mvn/
+
+# Eclipse
+.classpath
+.settings/
+.project
+/bin/
+/*/bin
+/gradle/plugins/*/bin
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+*.uml
+**/.idea/*
+!/.idea/icon.png
+!/.idea/vcs.xml
+/out/
+/*/out/
+
